@@ -1,10 +1,10 @@
 <p align = "center">
-<img src="https://cdn.discordapp.com/attachments/709849017881722903/858858451375882270/giphy.gif">
+<img src="https://cdn.discordapp.com/attachments/767328368021733406/780561079855742986/44019.gif">
 </p>
 
 ### <p align="center">📞 &nbsp;Contact</p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/349364529475616770.png">
+  <img src="https://discord.c99.nl/widget/theme-3/755113727766036552.png">
   <br>
   <a href="https://discord.gg/UmbrellaGTA">Umbrella ❤️</a>
   
