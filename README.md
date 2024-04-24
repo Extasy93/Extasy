@@ -1,5 +1,7 @@
+![Banner](https://github.com/FabianTerhorst/Extasy93/blob/main/Github-Profile-Cover.png)
 
-![header](https://media.licdn.com/dms/image/D4E16AQG1TwKE58yqsA/profile-displaybackgroundimage-shrink_350_1400/0/1693988276160?e=1710374400&v=beta&t=v-WOjSGp-t7VkzKwQONvy-r7TJ4K_-oMdbQZ5sMcUjY)
+<!-- welcome message -->  
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 ## Bienvenue sur mon profil :
 
@@ -15,7 +17,14 @@
 
 ### Je maîtrise:
 - 🌐 Lua, HTML & CSS, React, NuxtJS, Java, JavaScipt, Proxmox & ProxmoxAPI, Linux OS, Bash
-- 🎨 Première Pro, Photoshop, MobaXTerm, 
+- 🎨 Première Pro, Photoshop, MobaXTerm,
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Extasy93&show_icons=true&hide_border=true" />
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Extasy93&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
 
 <p align="center">👀 &nbsp;Visitors</p>
 <br>
