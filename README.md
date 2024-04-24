@@ -1,9 +1,7 @@
 ![Banner](https://github.com/FabianTerhorst/Extasy93/blob/main/Github-Profile-Cover.png)
 
 <!-- welcome message -->  
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-
-## Bienvenue sur mon profil :
+<h2>Bienvenue sur mon profil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 [![Tweeter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Extasy0093)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-cakici-73744b250/)
