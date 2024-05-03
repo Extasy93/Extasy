@@ -13,10 +13,6 @@
 - 💻 2023-2023: Création d'une boite d'hebergement et essai pour devenir "Entrepreneur" dans le monde de l'hebergement (Cloud)
 - 🌐 2023-2025 : Etudiant en alternance (BTS SIO SISR) à l'esiee-it, avec pour entrprise le Conseil Départemental Du Val D'Oise 
 
-### Je maîtrise:
-- 🌐 Lua, HTML & CSS, React, NuxtJS, Java, JavaScipt, Proxmox & ProxmoxAPI, Linux OS, Bash
-- 🎨 Première Pro, Photoshop, MobaXTerm,
-
 <p>  
 <!-- GitHub Stats -->  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Extasy93&show_icons=true&hide_border=true" />
