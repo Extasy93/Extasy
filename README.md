@@ -10,7 +10,7 @@
 ### Mon parcours:
 - 🎓 2020-2023: 3 Ans en Bac Pro Système numérique à l'AFORP avec pour entrprise le Conseil Départemental Du Val D'Oise
 - ❤️ 2021-2023: Créateur, Fondateur et Developper de 2 serveurs communautaires FiveM à plus de 150 joueurs constant (RiconRP & UmrellaRP)
-- 💻 2023-2023: Création d'une boite d'hebergement et essai pour devenir "Entrepreneur" dans le monde de l'hebergement (Cloud)
+- 💻 2023-2023: Création d'une entreprise d'hebergement (Cloud)
 - 🌐 2023-2025 : Etudiant en alternance (BTS SIO SISR) à l'esiee-it, avec pour entrprise le Conseil Départemental Du Val D'Oise 
 
 <p>  
